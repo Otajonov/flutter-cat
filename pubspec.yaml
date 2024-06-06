@@ -1,0 +1,32 @@
+name: cat
+description: "Shortcuts"
+version: 0.0.1
+homepage: https://github.com/Otajonov/flutter-cat
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  badges: ^3.1.2
+  connectivity_plus: ^6.0.1
+  get: ^4.6.6
+  http: ^1.2.1
+  loading_animation_widget: ^1.2.0+4
+  lottie: ^3.1.1
+  share_plus: ^9.0.0
+  shared_preferences: ^2.2.2
+  # swipeable_page_route: ^0.4.2
+  url_launcher: ^6.2.5
+  # vibration: ^1.8.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - lib/assets/images/
