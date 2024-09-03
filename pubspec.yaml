@@ -1,6 +1,6 @@
 name: cat
 description: "Shortcuts"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Otajonov/flutter-cat
 
 environment:
